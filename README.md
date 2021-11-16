@@ -1,2 +1,2 @@
-# Spam-mail-detection
+# Spam mail Detection 
 Its can easily detect the spam mail easily......
